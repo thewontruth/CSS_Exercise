@@ -83,3 +83,4 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 3. Create a **declaration** in your new ruleset that changes the **width** of the `avatar` element to **100px**.
 4. Create a **declaration** in your new ruleset that changes the **margin left** and **margin right** of the `avatar` element to **auto**.
 5. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `avatar` element to **32px**.
+# Index.css
